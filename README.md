@@ -9,3 +9,5 @@
 \==\, `-' /\==\ - , /:=; : 
  `--`----'  `--`---'  `=`  
  ```
+
+ ![](https://raw.githubusercontent.com/jimsaun/dotfiles/main/palettes.png)
