@@ -10,4 +10,4 @@
  `--`----'  `--`---'  `=`  
  ```
 
- ![](https://raw.githubusercontent.com/jimsaun/dotfiles/main/palettes.png)
+ ![](https://raw.githubusercontent.com/jimsaun/jimsaun/main/fetch.png)
