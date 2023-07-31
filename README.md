@@ -9,5 +9,3 @@
 \==\, `-' /\==\ - , /:=; : 
  `--`----'  `--`---'  `=`  
  ```
-
-![](https://raw.githubusercontent.com/jimsaun/dotfiles/main/iterm2/preview.png)
